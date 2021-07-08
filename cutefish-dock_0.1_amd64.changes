@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-dock
+Binary: cutefish-dock
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-dock - CutefishOS Dock
+Changes:
+ cutefish-dock (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 7b4c61dc16b67258a72ec1698c05c49fad870660 2012612 cutefish-dock-dbgsym_0.1_amd64.ddeb
+ b653c7ce1ed6437c51c44fc9d3a2114d69249459 12895 cutefish-dock_0.1_amd64.buildinfo
+ 0164435a137ac8df2e210c8e47353b29b0b58aa0 58416 cutefish-dock_0.1_amd64.deb
+Checksums-Sha256:
+ d99f91c99297344461c24da8a381dda545776820e902750c3400b592c8e38cd6 2012612 cutefish-dock-dbgsym_0.1_amd64.ddeb
+ 773ed6f3db962fa35b9e005a36e37a3be460a0788d23d876d5d4d5ca3fa6bb25 12895 cutefish-dock_0.1_amd64.buildinfo
+ 722a5be0665d2d5387bd0b8b0abce648157788703af816a4b0e552cee6c6a620 58416 cutefish-dock_0.1_amd64.deb
+Files:
+ 78355ca8cac2fa52bae56f80a482f48c 2012612 debug optional cutefish-dock-dbgsym_0.1_amd64.ddeb
+ 9cd1da084bc9f4a8f193bac767ccb6fd 12895 devel optional cutefish-dock_0.1_amd64.buildinfo
+ 297f79a3f8cefc8c2d99a88146e6facf 58416 devel optional cutefish-dock_0.1_amd64.deb
